@@ -1,6 +1,26 @@
 {
   "pack": {
-    "description": "A data-driven GUI library for mapmaking",
+    "description": [
+      {
+        "text": "AjjGUI Enhanced v2.0",
+        "color": "gold",
+        "bold": true
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "Multi-Language GUI Builder",
+        "color": "aqua"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "TR/EN/JP/CN/DE/ES/FR/RU Support",
+        "color": "gray"
+      }
+    ],
     "min_format": 94,
     "max_format": 94
   },
