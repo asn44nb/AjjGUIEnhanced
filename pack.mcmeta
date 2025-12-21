@@ -27,7 +27,7 @@
   "overlays": {
     "entries": [
       {
-        "directory": "Advanced",
+        "directory": "Enhanced",
         "min_format": 94,
         "max_format": 94
       }
