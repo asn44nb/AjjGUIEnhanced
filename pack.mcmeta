@@ -1,5 +1,16 @@
 {
   "pack": {
-    "description": "A data-driven GUI library for mapmaking"
+    "description": "A data-driven GUI library for mapmaking",
+    "min_format": 94,
+    "max_format": 94
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "Advanced",
+        "min_format": 94,
+        "max_format": 94
+      }
+    ]
   }
 }
