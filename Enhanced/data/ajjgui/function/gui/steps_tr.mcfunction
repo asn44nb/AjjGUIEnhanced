@@ -1,0 +1,5 @@
+tellraw @s [{"text":"Adım 1: ","color":"gold"},{"text":"Shulker Box'a widget'ları ekle","color":"gray"}]
+tellraw @s [{"text":"Adım 2: ","color":"gold"},{"text":"Shulker Box'ları Sandığa yerleştir","color":"gray"}]
+tellraw @s [{"text":"Adım 3: ","color":"gold"},{"text":"Sandığın yanında dur","color":"gray"}]
+tellraw @s [{"text":"Adım 4: ","color":"gold"},{"text":"Şunu çalıştır: ","color":"gray"},{"text":"/function ajjgui:__compile","color":"yellow","click_event":{"action":"suggest_command","command":"/function ajjgui:__compile"},"hoverEvent":{"action":"show_text","value":"Kopyalamak için tıkla"}}]
+tellraw @s [{"text":"Adım 5: ","color":"gold"},{"text":"Tıkla!","color":"yellow","click_event":{"action":"suggest_command","command":"/function ajjgui:__portself {id:\"\"}"},"hoverEvent":{"action":"show_text","value":"Click to copy"}}]
